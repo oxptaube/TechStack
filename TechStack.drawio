@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-12-15T13:09:05.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="BC6EoX_8u69wyKFr4aVQ" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2023-12-15T13:32:52.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="WMhhhhB-z98JOJQn2XP3" version="22.1.2" type="device">
   <diagram name="Seite-1" id="py0Is3C-Dmuen9L5XJpg">
-    <mxGraphModel dx="3925" dy="2485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5798" dy="3597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +117,7 @@
           <mxGeometry x="-852.4699999999999" y="501.8" width="222.51" height="71.39" as="geometry" />
         </mxCell>
         <mxCell id="F0B1mk8qMrRc-etUSJf5-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/portainer-wordmark-1.svg;" parent="1" vertex="1">
-          <mxGeometry x="-255" y="573.19" width="360" height="105.3" as="geometry" />
+          <mxGeometry x="-255" y="573.19" width="360" height="105" as="geometry" />
         </mxCell>
         <mxCell id="F0B1mk8qMrRc-etUSJf5-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/paperless-ngx-banner.png;" parent="1" vertex="1">
           <mxGeometry x="-918.79" y="569.82" width="278.79" height="105.48" as="geometry" />
